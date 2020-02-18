@@ -3,7 +3,7 @@
 1. Download MikTeX from the official site https://miktex.org/2.9/setup.
    Optionally a distribution such as BasicTeX or TeXLive could be installed (in case of lack of space), but it      is recommended to download the MikTeX if possible. After downloading, perform the installation.
 
-![MikTeX](img\miktex.png)
+<img src="img/miktex.PNG" width="800" />
 
 2. Download and install the TeXmaker program from the official site 
    https://www.xm1math.net/texmaker/download.html.
@@ -23,4 +23,4 @@ Hello world.
 
 4. Save the file under the hello_world.tex name and select "Quick Build" option from the menu above the file        code. Make sure that the "View PDF" option is enabled next to the build option. Running the build should         result in creating .pdf file and previewing it in the program.
 
-![hello_world](img\hello_world.png)
+<img src="img/hello_world.PNG" width="800" />

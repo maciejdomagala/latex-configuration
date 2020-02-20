@@ -1,0 +1,19 @@
+# Fdb version 3
+["pdflatex"] 1582222719 "c:/Users/admin/Desktop/latex-configuration/hello_world.tex" "c:/Users/admin/Desktop/latex-configuration/hello_world.pdf" "hello_world" 1582222720
+  "C:/Users/admin/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1582043557 9852523 2d9196edad7e0f17fbf4eae983b6abc9 ""
+  "C:/Users/admin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1582050024 77778 9163661b381808d98e129ecf524fa2d4 ""
+  "C:/Users/admin/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
+  "C:/Users/admin/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247593067 32722 d7379af29a190c3f453aba36302ff5a9 ""
+  "C:/Users/admin/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/article.cls" 1581605968 20023 e427dd9e17e239bf926ef3aab67fe35e ""
+  "C:/Users/admin/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/size12.clo" 1581605968 8447 5c4b8ee712f8e349df2722115bc8c513 ""
+  "C:/Users/admin/AppData/Local/Programs/MiKTeX 2.9/tex/latex/l3backend/l3backend-pdfmode.def" 1580757030 25404 9d60f463a00d154207ec0048dee27cf0 ""
+  "c:/Users/admin/Desktop/latex-configuration/hello_world.aux" 1582222720 8 a94a2480d3289e625eea47cd1b285758 ""
+  "c:/Users/admin/Desktop/latex-configuration/hello_world.tex" 1582222717 86 7d0090051d64733c0aed6f02215e5ff9 ""
+  "hello_world.aux" 1582222720 8 a94a2480d3289e625eea47cd1b285758 "pdflatex"
+  "hello_world.tex" 1582222717 86 7d0090051d64733c0aed6f02215e5ff9 ""
+  (generated)
+  "hello_world.pdf"
+  "c:/Users/admin/Desktop/latex-configuration/hello_world.pdf"
+  "hello_world.aux"
+  "hello_world.log"
+  "c:/Users/admin/Desktop/latex-configuration/hello_world.log"

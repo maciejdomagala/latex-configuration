@@ -1,10 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.2.18)  18 FEB 2020 21:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.2.18)  20 FEB 2020 19:18
 entering extended mode
-**./hello_world.tex
-(hello_world.tex
+**c:/Users/admin/Desktop/latex-configuration/hello_world.tex
+(c:/Users/admin/Desktop/latex-configuration/hello_world.tex
 LaTeX2e <2020-02-02> patch level 2
-L3 programming layer <2020-02-14>
-("C:\Users\admin\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+L3 programming layer <2020-02-14> ("C:\Users\admin\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
 ("C:\Users\admin\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
 File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
@@ -20,18 +19,11 @@ File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
-)
-("C:\Users\admin\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backen
-d-pdfmode.def"
+) ("C:\Users\admin\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdfmode.def"
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count175
 \l__pdf_internal_box=\box45
-)
-
-LaTeX Warning: Unused global option(s):
-    [openany].
-
-(hello_world.aux)
+) (c:/Users\admin\Desktop\latex-configuration\hello_world.aux)
 \openout1 = `hello_world.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
@@ -50,19 +42,17 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
  [1
 
-{C:/Users/admin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (hello_worl
-d.aux) ) 
+{C:/Users/admin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (c:/Users\admin\Desktop\latex-configuration\hello_world.aux) ) 
 Here is how much of TeX's memory you used:
  367 strings out of 481556
- 6509 string characters out of 2913869
+ 6757 string characters out of 2913869
  236180 words of memory out of 3000000
- 15695 multiletter control sequences out of 15000+200000
+ 15694 multiletter control sequences out of 15000+200000
  532636 words of font info for 25 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 24i,4n,24p,135b,97s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/admin/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmr12.pfb>
-Output written on hello_world.pdf (1 page, 10451 bytes).
+ 24i,4n,21p,176b,97s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/admin/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on c:/Users\admin\Desktop\latex-configuration\hello_world.pdf (1 page, 10451 bytes).
 PDF statistics:
  10 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

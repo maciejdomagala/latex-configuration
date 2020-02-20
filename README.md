@@ -1,12 +1,7 @@
-```python
 # LaTeX configuration for Visual Studio Code
-```
 
-
-```python
 1. Download MikTeX from the official site https://miktex.org/2.9/setup.
 Optionally a distribution such as BasicTeX or TeXLive could be installed (in case of lack of space and different OS), but it is recommended to download the MikTeX if possible. After downloading, perform the installation.
-```
 
 <img src="img/miktex.PNG" width="800" />
 
